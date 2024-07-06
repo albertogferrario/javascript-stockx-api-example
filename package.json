@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@albertogferrario/stockx-api": "^1.0.4",
+    "@albertogferrario/stockx-api": "^1.0.6",
     "dotenv": "^16.4.5"
   }
 }
